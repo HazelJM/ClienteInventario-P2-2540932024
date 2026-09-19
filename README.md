@@ -296,14 +296,31 @@ git push origin main
 
 ## Parcial 2 — Consumo de API (completar por el estudiante)
 
-**Nombre:** _________________________________ · **Carnet:** ______________
+**Nombre:** Jiménez Martínez Hazel Daniela · **Carnet:** 25-4093-2024
 
 ### Salida de consola (segunda ejecución)
 
 ```
-(pegue aquí la salida completa de la segunda ejecución de Main)
+Sincronizacion con la API -> insertados: 0 | actualizados: 10
+
+--- Inventario despues de sincronizar ---
+ID    PRODUCTO                    CANTIDAD
+1     Essence Mascara Lash Princess         99
+2     Eyeshadow Palette with Mirror         34
+3     Powder Canister                   89
+4     Red Lipstick                      91
+5     Red Nail Polish                   79
+6     Calvin Klein CK One               29
+7     Chanel Coco Noir Eau De           58
+8     Dior J'adore                      98
+9     Dolce Shine Eau de                 4
+10    Gucci Bloom Eau de                91
+
 ```
+
 
 ### Uso de inteligencia artificial
 
-(Declare si utilizó alguna herramienta de IA, cuál y para qué. Si no la utilizó, indíquelo.)
+Se utilizó Microsoft Copilot como herramienta de apoyo para resolver dudad relacionadas con el consumo de APIs Rest en Java, la deserialización de JSON con Jackson y la implementación de la sincronización solicitada. Además, se empleó para revisar fragmetos de código que durante el desarrollo mostraban errores o advertencias para poder lograr una correcta ejecución.
+Asimismo, se utilizó para sugerir algunos comodos de terminal relacionados con GIT. 
+
